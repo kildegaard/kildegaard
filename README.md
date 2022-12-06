@@ -1,6 +1,6 @@
 #Bienvenidos a mi **special place**!
 
-<h2 style="font-size: 40; color: white; background-color: black; text-align: center; text-decoration: underline;">PÁGINA EN CONSTRUCCCIÓN</h2>
+<p style="font-size: 40; color: white; background-color: black; text-align: center; text-decoration: underline;">PÁGINA EN CONSTRUCCIÓN</p>
 
 <p style="text-decoration: underline;">Tecnologías</p>
 
