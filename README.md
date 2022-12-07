@@ -39,4 +39,4 @@
 [![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=plastic&logo=vercel&logoColor=white&link=https://github.com/kildegaard)](https://github.com/kildegaard)
 
 <p style="text-decoration: underline;">Otros lenguajes:</p>
-[![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=lightgreen)](https://github.com/kildegaard)
+![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54&link=https://github.com/kildegaard)
