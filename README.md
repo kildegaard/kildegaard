@@ -27,7 +27,8 @@
 [![JSON](https://img.shields.io/badge/-json-02569B?style=plastic&logo=json&link=https://github.com/kildegaard)](https://github.com/kildegaard)
 
 <p style="text-decoration: underline;">Otros lenguajes:</p>
-![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54&link=https://github.com/kildegaard)
+
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 <p style="text-decoration: underline;">Base de Datos:</p>
 
