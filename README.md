@@ -26,6 +26,9 @@
 
 [![JSON](https://img.shields.io/badge/-json-02569B?style=plastic&logo=json&link=https://github.com/kildegaard)](https://github.com/kildegaard)
 
+<p style="text-decoration: underline;">Otros lenguajes:</p>
+![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54&link=https://github.com/kildegaard)
+
 <p style="text-decoration: underline;">Base de Datos:</p>
 
 [![MySQL](https://img.shields.io/badge/-MySQL-black?style=plastic&logo=mysql&logoColor=white&link=https://github.com/kildegaard)](https://github.com/kildegaard)
@@ -37,6 +40,3 @@
 [![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=plastic&logo=firebase&link=https://github.com/kildegaard)](https://github.com/kildegaard)
 [![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=plastic&logo=netlify&logoColor=#00C7B7&link=https://github.com/kildegaard)](https://github.com/kildegaard)
 [![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=plastic&logo=vercel&logoColor=white&link=https://github.com/kildegaard)](https://github.com/kildegaard)
-
-<p style="text-decoration: underline;">Otros lenguajes:</p>
-![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54&link=https://github.com/kildegaard)
