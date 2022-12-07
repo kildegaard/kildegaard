@@ -9,7 +9,7 @@ Ese año y medio de pseudo encierro lo dediqué casi enteramente a aprender a pr
 Long story short, en 2022 encaré muchos cursos que apuntan hacia el desarrollo web: Argentina Programa, Buenos Aires Multiplica (como cursos estatales) y carrera de Fontend en **Coderhouse**. Este último consta de tres cursos, uno sobre desarrollo frontend (principalmente HTML5 y CCS3, con un poco de diseño, SEO y temas de hosting), otro sobre javascript y el último sobre React JS.
 En paralelo también estoy realizando cursos en el área de la ciencia de datos: Codo a Codo Big Data (como curso estatal) y Data Analytics de **Digital House**.
 
-===
+***
 
 
 <p style="font-size: 40; color: white; background-color: black; text-align: center; text-decoration: underline;">PÁGINA EN CONSTRUCCIÓN</p>
