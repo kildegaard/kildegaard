@@ -2,7 +2,7 @@
 
 ## Pequeña bio
 Esta página está aún en proceso de creación, pero por el momento les puedo comentar que soy licenciado en ciencias químicas, recibido en la FAcultad de Ciencias Exacts y Naturales, Universidad de Buenos Aires.
-Actualmente estoy realizando el doctorado en Química Industrial en temas de química sustentable o Green Chemistry.
+Actualmente estoy realizando el doctorado en Química Industrial en temas de química sustentable o Green Chemistry ♻.
 
 Me apasiona la programación: arranqué con algo de C tiempo atrás en Algoritmos y Programación de la carrera de Ingeniería Electrónica (sí, pasé por un par de carreras antes de elegir química) allá por el 2008. Luego pasó tiempo sin programar, hasta que caí en un curso de Codo a Codo (alrededor del 2019) en el que aprendí Java. Un poco rudimentario, pero la lógica de programación ya estaba calada en mí. Posteriormente, en época de pandemia aprendí Python y me volví a enamorar del *coding*.
 Ese año y medio de pseudo encierro lo dediqué casi enteramente a aprender a programar, principalmente en python (cosas relacioandas a visualización y un poco de Machine Learning) pero también comencé a descubrir el universo del webDev.
@@ -11,6 +11,11 @@ En paralelo también estoy realizando cursos en el área de la ciencia de datos:
 
 ***
 
+- 🧨 Actualmente estoy terminando los cursos que comenté en la bio: terminando el curso de frontend, por empezar el curso de Javascript y atravesando el curso de Data Analytics.
+- 💎 Me encantaría poder colaborar en proyectos de desarrollo web para poder afianzar mis conocimientos adquiridos
+- 🐈 Tengo 10 gatos (4 míos y de mi señora, y 6 de mi madre y hermana), me encantan las series y películas de ciencia ficción (en particular LOTR, Star Wars, GoT) y disfruto de entrenar (gimnasio, calistenia y bicicleta).
+
+***
 
 <p style="font-size: 40; color: white; background-color: black; text-align: center; text-decoration: underline;">PÁGINA EN CONSTRUCCIÓN</p>
 
