@@ -37,3 +37,6 @@
 [![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=plastic&logo=firebase&link=https://github.com/kildegaard)](https://github.com/kildegaard)
 [![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=plastic&logo=netlify&logoColor=#00C7B7&link=https://github.com/kildegaard)](https://github.com/kildegaard)
 [![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=plastic&logo=vercel&logoColor=white&link=https://github.com/kildegaard)](https://github.com/kildegaard)
+
+<p style="text-decoration: underline;">Otros lenguajes:</p>
+[![Python](https://img.shields.io/badge/-Python?style=plastic&logo=python&link=https://github.com/kildegaard)](https://github.com/kildegaard)
